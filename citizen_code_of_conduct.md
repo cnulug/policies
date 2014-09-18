@@ -1,7 +1,7 @@
 # Citizen Code of Conduct
 
-> *This document is just a proposal. It is pending adoption by the rest of the
-> CNULUG community, our faculty advisors,* and the various CNU boards who
+> **This document is just a proposal. It is pending adoption by the rest of the
+> CNULUG community, our faculty advisors,** and the various CNU boards who
 > approve community policies (for when we become an "official campus
 > organization".
 
