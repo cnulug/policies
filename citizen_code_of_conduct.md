@@ -1,8 +1,13 @@
 # Citizen Code of Conduct
 
+> *This document is just a proposal. It is pending adoption by the rest of the
+> CNULUG community, our faculty advisors,* and the various CNU boards who
+> approve community policies (for when we become an "official campus
+> organization".
+
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to
+A primary goal of CNULUG is to be inclusive to
 the largest number of contributors, with the most varied
 and diverse backgrounds possible. As such, we are committed
 to providing a friendly, safe and welcoming environment for
@@ -14,13 +19,13 @@ This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to
+We invite all those who participate in CNULUG to
 help us create safe and positive experiences for everyone.
 
-## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
+## 2.‎ ‏Open Community Citizenship
 
 A supplemental goal of this Code of Conduct is to
-increase open [source/culture/tech] citizenship by encouraging
+increase open community citizenship by encouraging
 participants to recognize and strengthen the relationships
 between our actions and their effects on our community.
 
@@ -116,8 +121,8 @@ directly]
 
 ## 10.‎ ‏License and attribution
 
-This Code of Conduct is distributed under a [Creative
-Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
+This Code of Conduct is distributed under a
+[Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 2.0, adopted by the [Stumptown
-Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+_Revision 2.0, adopted by the
+[Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
