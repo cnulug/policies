@@ -32,7 +32,7 @@ Official titles are created and based on different responsibilities that arise i
 
 Such new positions / titles are to be appproved by the president and at least one more existing rank-holding member before it can be assumed.
 
-**TODO** Describe various ranks.
+#### **TODO** Ranks
 
 ### [RFC] Elections
 
