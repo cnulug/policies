@@ -74,7 +74,7 @@ competent in areas essential / basic to club operations takes over such role.
 
 ### [RFC] Funding
 
-A treasurer position is to be apointed should CNULUG receive any funding that requires the club to manage a bank account.
+A treasurer position is to be apointed should CNULUG receive any funding that requires the club to manage club monies.
 
 ### [RFC] Amendments
 
