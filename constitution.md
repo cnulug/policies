@@ -48,8 +48,6 @@ in order to keep the club functioning under normal conditions.
 Such new positions / titles are to be appproved by the president and at least
 one more existing rank-holding member before it can be assumed.
 
-#### [TODO] Ranks
-
 ### [RFC] Elections
 
 A general election by committed members and interested parties associated with
