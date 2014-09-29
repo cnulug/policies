@@ -14,6 +14,19 @@ Our core goals and values are:
 - support
 - socializing
 
+## [RFC] Mission
+
+CNULUG exists as a general advocate of Linux and open-source software.
+We have some important goals related to CNU, however:
+
+- Improve on-campus knowledge and support for Linux and free/open source software (FOSS)
+- Building a campus-wide culture around Linux and FOSS
+- Help Linux and FOSS users access standard 
+  university resources
+- Educate users on modern uses of Linux, including security, web development 
+  and computer engineering for ARM architectures
+- Becoming a meaningful member of the global FOSS community
+
 ## [RFC] Membership
 
 We welcome new users and do not charge dues or discriminate about level of
@@ -66,6 +79,8 @@ competent in areas essential / basic to club operations takes over such role.
 ### [TODO] Ratification
 
 ### [TODO] Amendments
+
+
 
 ### [TODO] Bylaws
 
