@@ -14,6 +14,19 @@ Our core goals and values are:
 - support
 - socializing
 
+## [RFC] Mission
+
+CNULUG exists as a general advocate of Linux and open-source software.
+We have some important goals related to CNU, however:
+
+- Improve on-campus knowledge and support for Linux and free/open source software (FOSS)
+- Building a campus-wide culture around Linux and FOSS
+- Help Linux and FOSS users access standard 
+  university resources
+- Educate users on modern uses of Linux, including security, web development 
+  and computer engineering for ARM architectures
+- Becoming a meaningful member of the global FOSS community
+
 ## [RFC] Membership
 
 We welcome new users and do not charge dues or discriminate about level of
@@ -61,13 +74,21 @@ A new president is only determined by the current member holding the title of
 president. This is to ensure that only someone who has been determined to be
 competent in areas essential / basic to club operations takes over such role.
 
-### [TODO] Funding
+### [RFC] Funding
 
-### [TODO] Ratification
+A treasurer position is to be apointed should CNULUG receive any funding that requires the club to manage a bank account.
 
-### [TODO] Amendments
+### [RFC] Amendments
 
-### [TODO] Bylaws
+The CNULUG Constitution is maintained through Git. Right now, the official copy is located at [https://github.com/cnulug/policies](https://github.com/cnulug/policies)
+
+Amendments may be proposed either at CNULUG general meetings, or through the mailing list. An amendment may be proposed by any active member of the club.
+
+Amendments are officially considered for review through being submitted as pull requests on the mailing list. Once submitted for review, the amendment proposal is discussed through the mailing list as well as in a general club meeting prior to being merged into the constitution.
+
+An active member is any member who has taken part in a club meeting or has posted on the mailing or IRC within the last month.
+
+### [RFC] Bylaws
 
 Bylaws are documented in our [Citizen Code of Conduct](https://github.com/cnulug/policies/blob/master/citizen_code_of_conduct.md#citizen-code-of-conduct).
 
