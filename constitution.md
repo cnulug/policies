@@ -58,7 +58,7 @@ To ensure and maintain club organization, a list of basic responsibilities that 
 - Keeping mailing list running, irc channel running, website updated, update/create wiki.
 - Taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions.
 - Organizing events (includes scheduling rooms, etc), meeting and planning CNULUG meeting talks with professors, planning events on campus with other organizations/people
-- Fundraising / club-monies management
+- Fundraising
 
 These responsibilities must be carried out and may be assumed by any entrusted-member regardless of rank status.
 
