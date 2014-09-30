@@ -37,6 +37,9 @@ welcome to be a *Member* of our organization:
 - Subscribed to our mailing list
 - Are active on our IRC channel (`#cnulug` on [Freenode](https://freenode.net/))
 
+An individual does not have to be an attending student or alumni of CNU in order to be considered a member of CNULUG.
+
+
 ### [RFC] Rank-holding members
 
 A *Rank-Holding Member* is any member who holds an official title within the
@@ -50,7 +53,7 @@ one more existing rank-holding member before it can be assumed.
 
 ### [RFC] Elections
 
-A general election by committed members and interested parties associated with
+A general election by existing CNU-attending members and faculty associated with
 the CNU Linux User Group is held at the end of every academic year to determine
 new rank-holding members for the upcoming term. This election is to determine
 the people who are to fulfill club officer roles for every **existing**
@@ -74,7 +77,7 @@ competent in areas essential / basic to club operations takes over such role.
 
 ### [RFC] Funding
 
-A treasurer position is to be apointed should CNULUG receive any funding that requires the club to manage a bank account.
+A treasurer is to be apointed by the president should no previous member holding such rank exist, in the event that CNULUG receive any funding that requires the management of club monies. Should the position already be filled, a new treasurer is to be elected every year as per described in the **elections** section.
 
 ### [RFC] Amendments
 
