@@ -40,7 +40,7 @@ welcome to be a *Member* of our organization:
 An individual does not have to be an attending student or alumni of CNU in order to be considered a member of CNULUG.
 
 
-### [RFC] Rank-holding members
+## [RFC] Rank-holding members
 
 A *Rank-Holding Member* is any member who holds an official title within the
 organization, besides that of just Member.
@@ -51,7 +51,18 @@ in order to keep the club functioning under normal conditions.
 Such new positions / titles are to be appproved by the president and at least
 one more existing rank-holding member before it can be assumed.
 
-### [RFC] Elections
+## [RFC] Basic responsibilities
+
+To ensure and maintain club organization, a list of basic responsibilities that must be met, either by any member or by specific individuals appointed by the president, is defined. Such responsibilities include
+
+- Keeping mailing list running, irc channel running, website updated, update/create wiki.
+- Taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions.
+- Organizing events (includes scheduling rooms, etc), meeting and planning CNULUG meeting talks with professors, planning events on campus with other organizations/people
+- Fundraising / club-monies management
+
+These responsibilities must be carried out and may be assumed by any entrusted-member regardless of rank status.
+
+## [RFC] Elections
 
 A general election by existing CNU-attending members and faculty associated with
 the CNU Linux User Group is held at the end of every academic year to determine
@@ -75,11 +86,11 @@ A new president is only determined by the current member holding the title of
 president. This is to ensure that only someone who has been determined to be
 competent in areas essential / basic to club operations takes over such role.
 
-### [RFC] Funding
+## [RFC] Funding
 
 A treasurer is to be apointed by the president should no previous member holding such rank exist, in the event that CNULUG receive any funding that requires the management of club monies. Should the position already be filled, a new treasurer is to be elected every year as per described in the **elections** section.
 
-### [RFC] Amendments
+## [RFC] Amendments
 
 The CNULUG Constitution is maintained through Git. Right now, the official copy is located at [https://github.com/cnulug/policies](https://github.com/cnulug/policies)
 
@@ -89,7 +100,7 @@ Amendments are officially considered for review through being submitted as pull 
 
 An active member is any member who has taken part in a club meeting or has posted on the mailing or IRC within the last month.
 
-### [RFC] Bylaws
+## [RFC] Bylaws
 
 Bylaws are documented in our [Citizen Code of Conduct](https://github.com/cnulug/policies/blob/master/citizen_code_of_conduct.md#citizen-code-of-conduct).
 
