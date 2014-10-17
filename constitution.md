@@ -39,6 +39,7 @@ welcome to be a *Member* of our organization:
 
 An individual does not have to be an attending student or alumni of CNU in order to be considered a member of CNULUG.
 
+An active member is any member who has taken part in a club meeting, posted on the mailing list, or joined our IRC room within the last month.
 
 ### [RFC] Rank-holding members
 
@@ -83,11 +84,16 @@ A treasurer is to be apointed by the president should no previous member holding
 
 The CNULUG Constitution is maintained through Git. Right now, the official copy is located at [https://github.com/cnulug/policies](https://github.com/cnulug/policies)
 
-Amendments may be proposed either at CNULUG general meetings, or through the mailing list. An amendment may be proposed by any active member of the club.
+Pull Requests are our amendment process.
+A Pull Request is either a Git-formatted patch on our mailing list or a "pull request", per GitHub's definition, to the https://github.com/cnulug/policies repository.
 
-Amendments are officially considered for review through being submitted as pull requests on the mailing list. Once submitted for review, the amendment proposal is discussed through the mailing list as well as in a general club meeting prior to being merged into the constitution.
+Prior to being merged into the official repository, the following is required of a Pull Request:
 
-An active member is any member who has taken part in a club meeting or has posted on the mailing or IRC within the last month.
+- A submission to either GitHub or the mailing list
+- Discussion at a general club meeting
+- An announcement on the mailing list, if the Pull Request was not originally submitted there
+
+This is followed by a minimum week-long review and discussion period before changes may be merged into the official repository. The start of this one week period begins after all three requirements have been initiated.
 
 ### [RFC] Bylaws
 
