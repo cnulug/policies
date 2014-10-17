@@ -56,11 +56,12 @@ one more existing rank-holding member before it can be assumed.
 To ensure and maintain club organization, a list of basic responsibilities that must be met, either by any member or by specific individuals appointed by the president, is defined. Such responsibilities include
 
 - Keeping mailing list running, irc channel running, website updated, update/create wiki.
-- Taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions.
 - Organizing events (includes scheduling rooms, etc), meeting and planning CNULUG meeting talks with professors, planning events on campus with other organizations/people
 - Fundraising
 
 These responsibilities must be carried out and may be assumed by any entrusted-member regardless of rank status.
+
+Although not enforced, or assigned as duty to any member, taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions is highly encouraged by any member or group of members present during such discussions.
 
 ## [RFC] Elections
 
