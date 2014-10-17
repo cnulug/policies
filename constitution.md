@@ -59,7 +59,9 @@ To ensure and maintain club organization, a list of basic responsibilities that 
 - Organizing events (includes scheduling rooms, etc), meeting and planning CNULUG meeting talks with professors, planning events on campus with other organizations/people
 - Fundraising
 
-These responsibilities must be carried out and may be assumed by any entrusted-member regardless of rank status.
+These responsibilities must be carried out and may be assumed by any active member regardless of rank status.
+
+Should a general agreement be reached by any single rank-holding member, or by a majority number of active memebers, that any specific responsibility may no longer be held or assumed by any specific individual, such decision will be put to a vote, either through the mailing list or at the next general meeting before becoming final.
 
 Although not enforced, or assigned as duty to any member, taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions is highly encouraged by any member or group of members present during such discussions.
 
