@@ -53,7 +53,7 @@ one more existing rank-holding member before it can be assumed.
 
 ## [RFC] Basic responsibilities
 
-To ensure and maintain club organization, a list of basic responsibilities that must be met, either by any member or by specific individuals appointed by the president, is defined. Such responsibilities include
+To ensure and maintain club organization, a list of basic responsibilities that must be met, either by any member or by specific individuals appointed by the president, is defined. Such responsibilities include but are not limited to the following
 
 - Keeping mailing list running, irc channel running, website updated, update/create wiki.
 - Organizing events (includes scheduling rooms, etc), meeting and planning CNULUG meeting talks with professors, planning events on campus with other organizations/people
@@ -61,7 +61,7 @@ To ensure and maintain club organization, a list of basic responsibilities that 
 
 These responsibilities must be carried out and may be assumed by any active member regardless of rank status.
 
-Should a general agreement be reached by any single rank-holding member, or by a majority number of active memebers, that any specific responsibility may no longer be held or assumed by any specific individual, such decision will be put to a vote, either through the mailing list or at the next general meeting before becoming final.
+Any officially recognized responsibilities are subject to approval from the president. 'Officially recognized' responsibilities include, but are not limited to, the ones aforementioned in this section, and expand to include any functions that are or become crucial towards keeping baisc club operations running. Furthermore, should a general agreement be reached by any single rank-holding member, or by a majority number of active memebers, that any specific responsibility may no longer be held or assumed by any specific individual, such decision will be put to a vote, either through the mailing list or at the next general meeting before becoming final.
 
 Although not enforced, or assigned as duty to any member, taking notes of main points discussed at meetings to ensure everyone is kept informed of any events, announcements, and important discussions is highly encouraged by any member or group of members present during such discussions.
 
