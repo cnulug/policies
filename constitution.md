@@ -9,15 +9,15 @@ about it.
 We are dedicated to promoting smart and socially aware computer usage.
 Our core goals and values are:
 
-- advocacy
-- education
-- support
-- socializing
+- Advocacy
+- Education
+- Support
+- Socializing
 
 ## [RFC] Mission
 
 CNULUG exists as a general advocate of Linux and open-source software.
-We have some important goals related to CNU, however:
+We have some important goals related to CNU, however our goals are:
 
 - Improve on-campus knowledge and support for Linux and free/open source software (FOSS)
 - Building a campus-wide culture around Linux and FOSS
@@ -49,7 +49,7 @@ organization, besides that of just Member.
 Official titles are created and based on different responsibilities that arise
 in order to keep the club functioning under normal conditions.
 
-Such new positions / titles are to be appproved by the president and at least
+Such new positions / titles are to be approved by the president and at least 
 one more existing rank-holding member before it can be assumed.
 
 ### [RFC] Elections
@@ -78,7 +78,7 @@ competent in areas essential / basic to club operations takes over such role.
 
 ### [RFC] Funding
 
-A treasurer is to be apointed by the president should no previous member holding such rank exist, in the event that CNULUG receive any funding that requires the management of club monies. Should the position already be filled, a new treasurer is to be elected every year as per described in the **elections** section.
+A treasurer is to be appointed by the president should no previous member holding such rank exist, in the event that CNULUG receive any funding that requires the management of club monies. Should the position already be filled, a new treasurer is to be elected every year as per described in the **elections** section.
 
 ### [RFC] Amendments
 
@@ -95,7 +95,7 @@ Prior to being merged into the official repository, the following is required of
 
 This is followed by a minimum week-long review and discussion period before changes may be merged into the official repository. The start of this one week period begins after all three requirements have been initiated.
 
-### [RFC] Bylaws
+### [RFC] By-laws
 
-Bylaws are documented in our [Citizen Code of Conduct](https://github.com/cnulug/policies/blob/master/citizen_code_of_conduct.md#citizen-code-of-conduct).
+By-laws are documented in our [Citizen Code of Conduct](https://github.com/cnulug/policies/blob/master/citizen_code_of_conduct.md#citizen-code-of-conduct).
 
