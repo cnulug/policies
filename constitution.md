@@ -58,7 +58,7 @@ A general election by existing CNU-attending members and faculty associated with
 the CNU Linux User Group is held at the end of every academic year to determine
 new rank-holding members for the upcoming term. This election is to determine
 the people who are to fulfill club officer roles for every **existing**
-rank-held position, **excluding that of president**. No new positions are to be
+rank-held position. No new positions are to be
 determined by this election. In the event that a position is not voted on, there
 is no person available or willing to assume the position, or a conflict is
 discovered that prevents the elected person from assuming the role in any way,
