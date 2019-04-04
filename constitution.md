@@ -1,6 +1,6 @@
 # [RFC] Christopher Newport University Linux User Group Constitution
 
-> This document was last ratified on February 28th, 2018.
+> This document was last ratified on April 4, 2019.
 
 The Christopher Newport University Linux User Group (CNULUG) is an online and
 in-person community for people who use Linux or who are interested in learning
@@ -129,14 +129,13 @@ Prior to being merged into the official repository, the following is required of
 
 - A submission to either GitHub or the mailing list
 - Discussion at a general club meeting
-- An announcement on the mailing list, if the Pull Request was not originally submitted there
 
 This is followed by a minimum week-long review and discussion period before changes may be merged into the official repository. The start of this one week period begins after all three requirements have been initiated.
 
 ### [RFC] Meetings
 
 #### Location
-Meetings will be held on the Christopher Newport University campus in Luter room 221.
+Meetings will be held on the Christopher Newport University campus in Luter room 221, unless specified otherwise by a rank holding member.
 
 #### Time
 Meetings will be held weekly on the same day and time each week. This time will be determined by a poll
